@@ -1,0 +1,12 @@
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: ""
+  password: ""
+  database: "resort"
+
+log:
+  level: "debug"
+  max_size: 20
+  max_age: 30
+  max_backups: 4
